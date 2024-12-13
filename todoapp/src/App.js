@@ -3,7 +3,7 @@ import TaskForm from "./components/TaskForm";
 
 function App() {
   return (
-    <div className="h-screen bg-blue-100">
+    <div className=" bg-blue-100">
       <Header />
       <TaskForm />
     </div>
